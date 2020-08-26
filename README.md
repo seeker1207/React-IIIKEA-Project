@@ -1,4 +1,4 @@
-# IIIKEA
+# 🛀IIIKEA🚿
 ![이케아](./ikealogo.png)
 
 > IKEA를 모방한 IIIKEA 페이지를 리액트, Semantic UI, mobX를 이용하여 만들었습니다. 
