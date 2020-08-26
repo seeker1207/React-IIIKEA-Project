@@ -1,73 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# IIIKEA
+![이케아](./ikealogo.png)
 
-## Available Scripts
+> IKEA를 모방한 IIIKEA 페이지를 리액트, Semantic UI, mobX를 이용하여 만들었습니다. 
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 3가지 목표
+<br>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![목표](./resolution.png)
+* 사용자 관리
 
-### `npm test`
+  * 로그인 기능
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* 주문관리
 
-### `npm run build`
+  * 장바구니
+  * 전체/부분 선택 및 삭제 기능
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* 상품관리
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+  * 카테고리별 상품분리
+  * 개별 상품별 장바구니
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  
 
-### `npm run eject`
+## SKill Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image-20200826171113570](image-20200826171113570.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 웹페이지 화면
+<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![image-20200826172330743](image-20200826172330743.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-<<<<<<< HEAD
-hi
-=======
-hi
->>>>>>> 337d88a62679a709a35d688456485114cb44fd14
