@@ -8,7 +8,7 @@
 ## 3가지 목표
 <br>
 
-![목표](./resolution.png)
+![목표](./resolution.PNG)
 * 사용자 관리
 
   * 로그인 기능
